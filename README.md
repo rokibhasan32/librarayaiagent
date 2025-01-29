@@ -1,12 +1,12 @@
-# 📚 LibroAI: The Agentic AI-Powered Librarian of DIU
+# 📚 LibraAI: The Agentic AI-Powered Librarian of DIU
 
 *Revolutionizing University Libraries with Agentic AI*
 
 ## 🚀 Overview
-Libro is an AI-powered *virtual librarian* designed to automate and enhance university library services. It provides *real-time book tracking, personalized recommendations, auto-renewals, and intelligent chat assistance* to help students and faculty access library resources effortlessly.
+Libra is an AI-powered *virtual librarian* designed to automate and enhance university library services. It provides *real-time book tracking, personalized recommendations, auto-renewals, and intelligent chat assistance* to help students and faculty access library resources effortlessly.
 
 ## ✨ Features
-- *24/7 Virtual Librarian*: Libro handles book queries, availability checks, and reservations.
+- *24/7 Virtual Librarian*: Libra handles book queries, availability checks, and reservations.
 - *Smart Search & Recommendations*: Uses AI to suggest books based on user history.
 - *Real-Time Book Tracking*: Provides live shelf location and alternative suggestions.
 - *Auto-Renewals & Reminders*: Notifies users about due dates and renews books automatically.
