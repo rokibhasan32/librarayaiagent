@@ -1,0 +1,70 @@
+/* styles.css */
+body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.stApp {
+    padding: 1rem;
+    max-width: 100% !important;
+}
+
+.stChatInput {
+    border-radius: 8px !important;
+}
+
+.stChatMessage {
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.stSidebar {
+    background: #f8f9fa !important;
+    padding: 1rem !important;
+}
+
+/* Restored original button style */
+.stButton>button {
+    background: #8B4513 !important;  /* Original brown color */
+    color: white !important;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    transition: all 0.2s;
+    border: none !important;
+}
+
+.stButton>button:hover {
+    background: #6B3410 !important;  /* Darker brown for hover */
+    transform: scale(1.02);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+    .stApp {
+        padding: 0.5rem;
+    }
+    
+    .stSidebar {
+        width: 100% !important;
+        position: relative !important;
+    }
+    
+    .stChatMessage {
+        padding: 0.5rem;
+    }
+}
+
+.dataframe {
+    width: 100% !important;
+    overflow-x: auto;
+}
+
+.warning-box {
+    background: #fff3cd;
+    padding: 1rem;
+    border-radius: 6px;
+    margin: 1rem 0;
+}
